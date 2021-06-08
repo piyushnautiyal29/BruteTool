@@ -16,3 +16,7 @@ captcha.php
 Simple way to produce captcha figures in PHP.
 
 Captcha can detect and prevent from automated tools to make further requests
+
+---------------------------------------------------------------
+
+Pleae note that the brute force tool is for educational purpose only. Please don't use it for malicious purposes.
